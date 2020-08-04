@@ -10,5 +10,5 @@ Repository
 git init 
 git add . 
 git commit -m
-
+git push 
 #This is My Name
